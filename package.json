@@ -1,0 +1,28 @@
+{
+  "name": "the-worst-at-javascript",
+  "version": "1.0.0",
+  "description": "Terrible JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grandrapidsjavascript/the-worst-at-javascript.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Fun"
+  ],
+  "author": "Grand Rapids JavaScript Group",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grandrapidsjavascript/the-worst-at-javascript/issues"
+  },
+  "homepage": "https://github.com/grandrapidsjavascript/the-worst-at-javascript#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "cucumber": "^4.0.0",
+    "mocha": "^5.0.1"
+  }
+}
